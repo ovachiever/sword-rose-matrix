@@ -1,0 +1,14 @@
+# CycloCart pseudo-FTM export  (plain text)  •  generated 2025-04-19T16:39:40
+# Core meridian lines used in “Shambhala Axis & Rosslyn Node” sketch
+
+[OBJECTS]
+#  id      name                 type      λ_ecl(deg)   β(deg)    RA(deg)    Dec(deg)
+UR   Erik_Uranus_Rising     planet      242.150        -0.51     240.06     -22.71
+SU   Tiff_Sun_Rising        planet      207.633         0.00     205.66     -11.79
+
+[LINES]
+#  id     obj   kind     note                                central_longitude(E°)
+L1   UR    Rise   Erik Uranus rising meridian                       92.9
+L2   SU    Rise   Tiff Sun rising meridian                          95.1
+
+# End of file

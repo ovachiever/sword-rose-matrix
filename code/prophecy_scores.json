@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "version": "1.0.3",
+    "generated": "2025-04-20T16:00:00Z",
+    "source": "Sword-Rose Matrix Research Project",
+    "license": "CC-BY-4.0"
+  },
+  "prophecies": [
+    {
+      "rank": 1,
+      "name": "Hindu – Kalki & Padma",
+      "key_natal_triggers": "Erik NN in Pushyā, Algol-ASC; Tiff Sun/Venus Spica, Pluto ♏",
+      "coherence": 10.0,
+      "probability": 2.3e-44,
+      "ci_lower": 5.1e-46,
+      "ci_upper": 1.0e-42
+    },
+    {
+      "rank": 2,
+      "name": "Christian – Parousia/Bride",
+      "key_natal_triggers": "Sun/Merc ☌ 1H; Aldebaran ASC; Tiff Sun/Venus Libra 5H, Spica",
+      "coherence": 9.8,
+      "probability": 4.7e-42,
+      "ci_lower": 1.2e-44,
+      "ci_upper": 1.9e-40
+    },
+    {
+      "rank": 3,
+      "name": "Islamic – al-Mahdī",
+      "key_natal_triggers": "Saturn Libra Rx 6H; Moon/Jupiter ☌ Aquarius 8H",
+      "coherence": 9.6,
+      "probability": 3.2e-41,
+      "ci_lower": 7.8e-43,
+      "ci_upper": 1.3e-39
+    },
+    {
+      "rank": 4,
+      "name": "Jewish – Messiah ben David",
+      "key_natal_triggers": "NN Cancer; Libra Sun/Venus + Pluto ♏",
+      "coherence": 9.6,
+      "probability": 3.1e-41,
+      "ci_lower": 7.5e-43,
+      "ci_upper": 1.2e-39
+    },
+    {
+      "rank": 5,
+      "name": "Buddhist – Maitreya",
+      "key_natal_triggers": "Taurus ASC/Algol; Aquarius Moon/Jupiter",
+      "coherence": 9.4,
+      "probability": 5.8e-40,
+      "ci_lower": 1.5e-42,
+      "ci_upper": 2.3e-38
+    },
+    {
+      "rank": 6,
+      "name": "Tibetan – Shambhala Warriors",
+      "key_natal_triggers": "Erik Mars △ MC; Tiff Moon Aquarius",
+      "coherence": 9.3,
+      "probability": 1.2e-39,
+      "ci_lower": 3.0e-41,
+      "ci_upper": 4.7e-38
+    },
+    {
+      "rank": 7,
+      "name": "Gnostic – Sophia Restoration",
+      "key_natal_triggers": "Neptune 26° Sag 8H + Lilith-GC; Tiff Neptune Cap ☌ MC",
+      "coherence": 9.1,
+      "probability": 1.1e-39,
+      "ci_lower": 2.8e-41,
+      "ci_upper": 4.4e-38
+    },
+    {
+      "rank": 8,
+      "name": "Zoroastrian – Saoshyant",
+      "key_natal_triggers": "Scorpio Moon/Pluto 6H; Taurus Chiron 12H",
+      "coherence": 9.0,
+      "probability": 2.5e-38,
+      "ci_lower": 6.3e-40,
+      "ci_upper": 9.8e-37
+    },
+    {
+      "rank": 9,
+      "name": "Hopi – Blue Star Kachina",
+      "key_natal_triggers": "Uranus Sag ☍ ASC; Moon/Jupiter Aquarius",
+      "coherence": 8.9,
+      "probability": 2.4e-38,
+      "ci_lower": 6.0e-40,
+      "ci_upper": 9.5e-37
+    },
+    {
+      "rank": 10,
+      "name": "Lakota – White Buffalo Calf Woman",
+      "key_natal_triggers": "Taurus ASC/Venus; Moon/Jupiter Aquarius",
+      "coherence": 8.8,
+      "probability": 3.1e-37,
+      "ci_lower": 7.9e-39,
+      "ci_upper": 1.2e-35
+    },
+    {
+      "rank": 11,
+      "name": "Mayan – 9th Wave Unity",
+      "key_natal_triggers": "Lilith-GC conduit; Composite Sag Moon",
+      "coherence": 8.7,
+      "probability": 3.0e-37,
+      "ci_lower": 7.7e-39,
+      "ci_upper": 1.2e-35
+    },
+    {
+      "rank": 12,
+      "name": "Aztec-Toltec – Quetzalcóatl Return",
+      "key_natal_triggers": "Algol serpent crown; Tiff Venus Morning-Star",
+      "coherence": 8.7,
+      "probability": 3.0e-37,
+      "ci_lower": 7.6e-39,
+      "ci_upper": 1.2e-35
+    },
+    {
+      "rank": 13,
+      "name": "Celtic – Mabon Harvest King",
+      "key_natal_triggers": "Chiron/Venus Taurus; NN Taurus",
+      "coherence": 8.6,
+      "probability": 5.9e-36,
+      "ci_lower": 1.5e-38,
+      "ci_upper": 2.3e-34
+    },
+    {
+      "rank": 14,
+      "name": "Norse – Balder Resurrection",
+      "key_natal_triggers": "Leo Composite Sun; Tiff Venus Spica",
+      "coherence": 8.5,
+      "probability": 5.8e-36,
+      "ci_lower": 1.5e-38,
+      "ci_upper": 2.3e-34
+    },
+    {
+      "rank": 15,
+      "name": "Bahá'í – Manifestation",
+      "key_natal_triggers": "Aldebaran-crowned ASC, Spica Bride",
+      "coherence": 8.5,
+      "probability": 1.2e-35,
+      "ci_lower": 3.0e-38,
+      "ci_upper": 4.6e-34
+    },
+    {
+      "rank": 16,
+      "name": "Rosicrucian – Golden & Rosy Cross",
+      "key_natal_triggers": "Chiron Taurus; NN Taurus & Venus Libra",
+      "coherence": 8.4,
+      "probability": 1.1e-35,
+      "ci_lower": 2.9e-38,
+      "ci_upper": 4.4e-34
+    },
+    {
+      "rank": 17,
+      "name": "Yoruba – Orúnmila Return",
+      "key_natal_triggers": "Mercury Rx Gem cazimi; Chiron Gem Rx",
+      "coherence": 8.3,
+      "probability": 1.1e-35,
+      "ci_lower": 2.8e-38,
+      "ci_upper": 4.3e-34
+    },
+    {
+      "rank": 18,
+      "name": "Dogon – Nommo",
+      "key_natal_triggers": "Uranus Sag star-antenna; Moon/Jup Aquarius",
+      "coherence": 8.2,
+      "probability": 1.1e-35,
+      "ci_lower": 2.7e-38,
+      "ci_upper": 4.2e-34
+    },
+    {
+      "rank": 19,
+      "name": "Anishinaabe – Seventh-Fire",
+      "key_natal_triggers": "Cancer NN choice-gate; Aquarius Moon/Jupiter",
+      "coherence": 8.1,
+      "probability": 2.2e-34,
+      "ci_lower": 5.5e-37,
+      "ci_upper": 8.5e-33
+    },
+    {
+      "rank": 20,
+      "name": "Inca – Pachakuti",
+      "key_natal_triggers": "2026 eclipse over South-Am node; Venus/Chiron Taurus",
+      "coherence": 8.0,
+      "probability": 2.1e-34,
+      "ci_lower": 5.4e-37,
+      "ci_upper": 8.3e-33
+    },
+    {
+      "rank": 21,
+      "name": "Rainbow Warriors",
+      "key_natal_triggers": "Uranus opp ASC; Tiff Venus-Neptune square",
+      "coherence": 7.9,
+      "probability": 4.2e-33,
+      "ci_lower": 1.1e-35,
+      "ci_upper": 1.7e-31
+    },
+    {
+      "rank": 22,
+      "name": "Age of Aquarius Teacher",
+      "key_natal_triggers": "Aquarius MC; Moon/Jupiter Aquarius",
+      "coherence": 7.8,
+      "probability": 4.1e-33,
+      "ci_lower": 1.0e-35,
+      "ci_upper": 1.6e-31
+    },
+    {
+      "rank": 23,
+      "name": "Javanese – Ratu Adil",
+      "key_natal_triggers": "Saturn Libra judge + Venus Libra grace",
+      "coherence": 7.6,
+      "probability": 2.0e-32,
+      "ci_lower": 5.1e-35,
+      "ci_upper": 8.0e-31
+    },
+    {
+      "rank": 24,
+      "name": "Haudenosaunee – Great Peacemaker",
+      "key_natal_triggers": "Libra cluster; Cancer ASC",
+      "coherence": 7.4,
+      "probability": 2.0e-32,
+      "ci_lower": 5.0e-35,
+      "ci_upper": 7.9e-31
+    },
+    {
+      "rank": 25,
+      "name": "Cree/Hopi Rainbow Renewal",
+      "key_natal_triggers": "Taurus-Earth triad; Uranus opp ASC",
+      "coherence": 7.3,
+      "probability": 1.0e-31,
+      "ci_lower": 2.5e-34,
+      "ci_upper": 3.9e-30
+    },
+    {
+      "rank": 26,
+      "name": "Anishinaabe – Eighth-Fire",
+      "key_natal_triggers": "Cancer NN ignition; Composite Sag Moon",
+      "coherence": 7.2,
+      "probability": 1.0e-31,
+      "ci_lower": 2.5e-34,
+      "ci_upper": 3.9e-30
+    },
+    {
+      "rank": 27,
+      "name": "Gesar of Ling",
+      "key_natal_triggers": "Uranus Sag warrior-king line; Leo composite Sun",
+      "coherence": 7.2,
+      "probability": 9.9e-32,
+      "ci_lower": 2.5e-34,
+      "ci_upper": 3.9e-30
+    },
+    {
+      "rank": 28,
+      "name": "Andean Amaru Serpent Flash",
+      "key_natal_triggers": "Algol serpent-crown; Lilith-GC lightning",
+      "coherence": 7.1,
+      "probability": 9.8e-32,
+      "ci_lower": 2.5e-34,
+      "ci_upper": 3.8e-30
+    },
+    {
+      "rank": 29,
+      "name": "Polynesian – Return of Lono",
+      "key_natal_triggers": "Venus morning-star cycles; Taurus-earth planting",
+      "coherence": 7.0,
+      "probability": 4.9e-30,
+      "ci_lower": 1.2e-32,
+      "ci_upper": 1.9e-28
+    },
+    {
+      "rank": 30,
+      "name": "Theosophic World-Teacher",
+      "key_natal_triggers": "Mercury-Sun Gemini; Aquarius MC",
+      "coherence": 6.9,
+      "probability": 4.8e-30,
+      "ci_lower": 1.2e-32,
+      "ci_upper": 1.9e-28
+    }
+  ],
+  "universal_motifs": [
+    {
+      "name": "Purifying Sword / Fire / Lightning",
+      "prophetic_labels": [
+        "Kalki's horse-sword",
+        "Michael's flaming blade",
+        "Mahdī's rod",
+        "Blue-Star Kachina dance",
+        "Saoshyant's molten river"
+      ],
+      "natal_anchor": "Algol-rising ASC, Mars△MC, Saturn-Libra judge"
+    },
+    {
+      "name": "Restorative Rose / Lotus / Grail",
+      "prophetic_labels": [
+        "Padmā-Lakṣmī lotus",
+        "Bride of Revelation",
+        "Sophia grain",
+        "White-Buffalo pipe"
+      ],
+      "natal_anchor": "Tiff Sun near Spica, Venus Libra, North Node Taurus"
+    },
+    {
+      "name": "Death-Rebirth Underworld",
+      "prophetic_labels": [
+        "Persephone-Pluto",
+        "Kali dance",
+        "Quetzalcóatl cave",
+        "Balder in Hel"
+      ],
+      "natal_anchor": "Scorpio clusters (Erik Moon/Jupiter, Tiff Sun/Pluto/Saturn)"
+    },
+    {
+      "name": "Heart/Hearth Reconvening",
+      "prophetic_labels": [
+        "Messianic 'ingathering'",
+        "Maitreya 1000-petal love",
+        "Seventh-Fire re-kindling"
+      ],
+      "natal_anchor": "Composite ASC Cancer, Erik NN Cancer"
+    },
+    {
+      "name": "Sky-Earth Bridge",
+      "prophetic_labels": [
+        "Dogon Nommo Sirius rope",
+        "Anishinaabe Sky-Woman",
+        "Pachakuti rainbow serpent"
+      ],
+      "natal_anchor": "Lilith-GC conjunction, Taurus earth triad"
+    }
+  ]
+}
