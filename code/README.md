@@ -79,4 +79,4 @@ This script creates all figures used in the paper, including:
 
 ## License
 
-All code is licensed under MIT License.
+The code, like all other repository contents, is distributed under the Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International License (CC BY‑NC‑ND 4.0).

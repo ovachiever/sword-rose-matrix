@@ -38,4 +38,4 @@ The maps containing geographical features use base map data from OpenStreetMap c
 
 ## Usage Notes
 
-These images are provided under CC-BY-4.0 license. When using these visualizations in your work, please cite the original Sword-Rose Matrix paper and include the DOI (10.5281/zenodo.8273941).
+These images are provided under the Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International License (CC BY‑NC‑ND 4.0). When using these visualizations in your work, please cite the original Sword-Rose Matrix paper and include the DOI (10.5281/zenodo.8273941).

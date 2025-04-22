@@ -7,8 +7,8 @@ including astrocartographic maps, probability distributions, and
 cross-cultural comparison charts.
 
 Author: Sword-Rose Matrix Research Project
-License: MIT
-Version: 1.0.3
+License: CC BY-NC 4.0
+Version: 1.0.0
 """
 
 import os

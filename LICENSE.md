@@ -1,6 +1,7 @@
 # LICENSE FOR PERSONAL NATAL DATA AND ASTROLOGICAL INTERPRETATIONS
 
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
+## Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 
 This license applies specifically to the personal natal chart data, birth information, and personalized astrological interpretations contained in this repository.
 
@@ -15,7 +16,7 @@ This license applies specifically to the personal natal chart data, birth inform
 
 - **NonCommercial** — You may not use the material for commercial purposes.
 
-- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+- **Adaptations** — You may remix, transform, and build upon the material, but you may not use it for commercial purposes. Adaptations must also credit the original authors and indicate changes.
 
 - **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -25,7 +26,7 @@ This license applies specifically to the personal natal chart data, birth inform
 
 - No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-For the full legal text of this license, visit: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+For the full legal text of this license, visit: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 ## Statement of Consent
 
@@ -33,4 +34,4 @@ The authors of this repository explicitly consent to the inclusion of their nata
 
 ---
 
-*Note: Code and methodological components of this repository remain under the MIT License (see LICENSE-MIT) and general research findings remain under CC-BY-4.0 (see LICENSE-CC-BY-4.0).*
+*Note: All materials in this repository—including code, data, documentation, and visual assets—are distributed under the Creative Commons Attribution‑NonCommercial 4.0 International License (CC BY‑NC 4.0).*

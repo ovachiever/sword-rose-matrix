@@ -7,8 +7,8 @@ on the horizon (rising) for specified birth charts. It implements the horizon eq
 and generates data for creating astrocartographic maps.
 
 Author: Sword-Rose Matrix Research Project
-License: MIT
-Version: 1.0.3
+License: CC BY-NC 4.0
+Version: 1.0.0
 """
 
 import os
@@ -205,7 +205,7 @@ def export_data(planet_info_dict, rising_points_dict, output_path):
     """
     export_data = {
         'metadata': {
-            'version': '1.0.3',
+            'version': '1.0.0',
             'generated': Datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
             'precession_model': 'IAU 2006',
             'delta_t_model': 'Morrison-Stephenson 2015'

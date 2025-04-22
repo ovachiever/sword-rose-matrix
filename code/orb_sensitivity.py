@@ -6,8 +6,8 @@ This script analyzes how different orb sizes affect the probability
 calculations for astrological aspects in the Sword-Rose Matrix study.
 
 Author: Sword-Rose Matrix Research Project
-License: MIT
-Version: 1.0.3
+License: CC BY-NC 4.0
+Version: 1.0.0
 """
 
 import os
