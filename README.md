@@ -1,4 +1,7 @@
-# The Sword and Rose Matrix Research Project
+# The Sword and Rose Matrix 
+The infantile beginnings of an astro-esoteric research project and a call for community assistance to work through and determine "is there anything here that's signal or slop?"
+
+The papers are in the /doc folder, everything else is supplemental. This was a weekend project after o3 came out, so, it's rough but its interesting.
 
 ## License
 
