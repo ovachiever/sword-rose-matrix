@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Michael-Line Pilgrimage</name>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>ff0078ff</color> <!-- orange-ish -->
+        <width>3</width>
+      </LineStyle>
+    </Style>
+
+    <Placemark>
+      <name>1 Carn Lès Boel</name>
+      <Point><coordinates>-5.6927,50.0694,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>2 St Michael’s Mount</name>
+      <Point><coordinates>-5.4776,50.1169,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>3 The Hurlers</name>
+      <Point><coordinates>-4.4543,50.514,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>4 Brentor</name>
+      <Point><coordinates>-4.1443,50.613,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>5 Burrow Mump</name>
+      <Point><coordinates>-2.9589,51.0415,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>6 Glastonbury Tor</name>
+      <Point><coordinates>-2.6903,51.1451,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>7 Avebury</name>
+      <Point><coordinates>-1.8541,51.4287,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>8 Royston Cave</name>
+      <Point><coordinates>-0.0248,52.0487,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Rosslyn Chapel</name>
+      <Point><coordinates>-3.162,55.856,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Michael-Line Path</name>
+      <styleUrl>#lineStyle</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>-5.6927,50.0694,0 -5.4776,50.1169,0 -4.4543,50.514,0 -4.1443,50.613,0 -2.9589,51.0415,0 -2.6903,51.1451,0 -1.8541,51.4287,0 -0.0248,52.0487,0 -3.162,55.856,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

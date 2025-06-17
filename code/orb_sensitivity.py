@@ -65,8 +65,8 @@ KEY_ASPECTS = {
         'aspect_type': 'asc_fixed_star',
         'freq_base': 1/10000,         # Base frequency with standard orb
     },
-    'tiff_sun_spica': {
-        'description': "Tiff's Sun to Spica",
+    'tiffany_sun_spica': {
+        'description': "Tiffany's Sun to Spica",
         'actual_orb': 3.47,           # Actual orb in degrees
         'aspect_type': 'sun_fixed_star',
         'freq_base': 1/40000,         # Base frequency with standard orb
@@ -83,8 +83,8 @@ KEY_ASPECTS = {
         'aspect_type': 'major_aspect',
         'freq_base': 1/8,             # Base frequency with standard orb
     },
-    'tiff_moon_jupiter': {
-        'description': "Tiff's Moon-Jupiter conjunction",
+    'tiffany_moon_jupiter': {
+        'description': "Tiffany's Moon-Jupiter conjunction",
         'actual_orb': 6.73,           # Actual orb in degrees
         'aspect_type': 'major_aspect',
         'freq_base': 1/10,            # Base frequency with standard orb

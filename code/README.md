@@ -29,7 +29,7 @@ python rising_lines.py
 ```
 
 This script:
-1. Calculates the terrestrial longitudes where Erik's Uranus and Tiff's Sun appear on the horizon (rising)
+1. Calculates the terrestrial longitudes where Erik's Uranus and Tiffany's Sun appear on the horizon (rising)
 2. Generates a map showing these lines and their intersection in the Altai-Mongolia corridor
 3. Exports the data to `../data/processed/rising_lines_data.json`
 

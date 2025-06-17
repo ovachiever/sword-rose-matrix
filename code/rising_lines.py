@@ -34,13 +34,13 @@ BIRTH_DATA = {
         'color': 'red',            # Line color for plotting
         'label': 'Erik Uranus Rising'
     },
-    'Tiff': {
+    'Tiffany': {
         'dt': '1985-10-21 02:32',  # UTC time
         'lat': 43.8222,            # Birth latitude
         'lon': -96.7062,           # Birth longitude
         'planet': const.SUN,       # Target planet
         'color': 'blue',           # Line color for plotting
-        'label': 'Tiff Sun Rising'
+        'label': 'Tiffany Sun Rising'
     }
 }
 

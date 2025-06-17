@@ -97,12 +97,12 @@ def create_rising_curve_map(rising_data, output_path):
     if 'planetary_data' in rising_data:
         # Extract from Uranus and Sun data
         uranus_info = rising_data['planetary_data'].get('Erik', {})
-        sun_info = rising_data['planetary_data'].get('Tiff', {})
+        sun_info = rising_data['planetary_data'].get('Tiffany', {})
         
         # Create synthetic curves based on central meridians
         latitudes = np.linspace(-60, 60, 50)
         erik_meridian = rising_data['central_meridians'].get('Erik', 92.9)
-        tiff_meridian = rising_data['central_meridians'].get('Tiff', 95.1)
+        tiff_meridian = rising_data['central_meridians'].get('Tiffany', 95.1)
         
         erik_points = [(erik_meridian, lat) for lat in latitudes]
         tiff_points = [(tiff_meridian, lat) for lat in latitudes]
@@ -114,7 +114,7 @@ def create_rising_curve_map(rising_data, output_path):
     
     if tiff_points:
         lons, lats = zip(*tiff_points)
-        ax.plot(lons, lats, linestyle='--', color='blue', label='Tiff Sun Rising')
+        ax.plot(lons, lats, linestyle='--', color='blue', label='Tiffany Sun Rising')
     
     # Add points of interest
     for name, poi in rising_data.get('points_of_interest', {}).items():

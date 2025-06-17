@@ -6,7 +6,7 @@ This directory contains the visual assets generated for the Sword-Rose Matrix pr
 
 ### Rising Curves and Cartography
 
-- **rising_curves.png** - Primary visualization showing the bowed horizon curves for Erik's Uranus and Tiff's Sun with their intersection in the Altai-Mongolia corridor. This figure appears as Figure 1 in the main paper.
+- **rising_curves.png** - Primary visualization showing the bowed horizon curves for Erik's Uranus and Tiffany's Sun with their intersection in the Altai-Mongolia corridor. This figure appears as Figure 1 in the main paper.
 
 - **Shambhala_Rosslyn_AC_Map.pdf** - High-resolution schematic showing the two critical meridians (92.9°E and 95.1°E) with simplified vertical lines. Suitable for print publication.
 
