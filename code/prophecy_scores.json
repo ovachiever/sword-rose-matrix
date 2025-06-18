@@ -9,7 +9,7 @@
     {
       "rank": 1,
       "name": "Hindu – Kalki & Padma",
-      "key_natal_triggers": "Erik NN in Pushyā, Algol-ASC; Tiff Sun/Venus Spica, Pluto ♏",
+      "key_natal_triggers": "Erik NN in Pushyā, Algol-ASC; Tiffany Sun/Venus Spica, Pluto ♏",
       "coherence": 10.0,
       "probability": 2.3e-44,
       "ci_lower": 5.1e-46,
@@ -18,7 +18,7 @@
     {
       "rank": 2,
       "name": "Christian – Parousia/Bride",
-      "key_natal_triggers": "Sun/Merc ☌ 1H; Aldebaran ASC; Tiff Sun/Venus Libra 5H, Spica",
+      "key_natal_triggers": "Sun/Merc ☌ 1H; Aldebaran ASC; Tiffany Sun/Venus Libra 5H, Spica",
       "coherence": 9.8,
       "probability": 4.7e-42,
       "ci_lower": 1.2e-44,
@@ -54,7 +54,7 @@
     {
       "rank": 6,
       "name": "Tibetan – Shambhala Warriors",
-      "key_natal_triggers": "Erik Mars △ MC; Tiff Moon Aquarius",
+      "key_natal_triggers": "Erik Mars △ MC; Tiffany Moon Aquarius",
       "coherence": 9.3,
       "probability": 1.2e-39,
       "ci_lower": 3.0e-41,
@@ -63,7 +63,7 @@
     {
       "rank": 7,
       "name": "Gnostic – Sophia Restoration",
-      "key_natal_triggers": "Neptune 26° Sag 8H + Lilith-GC; Tiff Neptune Cap ☌ MC",
+      "key_natal_triggers": "Neptune 26° Sag 8H + Lilith-GC; Tiffany Neptune Cap ☌ MC",
       "coherence": 9.1,
       "probability": 1.1e-39,
       "ci_lower": 2.8e-41,
@@ -108,7 +108,7 @@
     {
       "rank": 12,
       "name": "Aztec-Toltec – Quetzalcóatl Return",
-      "key_natal_triggers": "Algol serpent crown; Tiff Venus Morning-Star",
+      "key_natal_triggers": "Algol serpent crown; Tiffany Venus Morning-Star",
       "coherence": 8.7,
       "probability": 3.0e-37,
       "ci_lower": 7.6e-39,
@@ -126,7 +126,7 @@
     {
       "rank": 14,
       "name": "Norse – Balder Resurrection",
-      "key_natal_triggers": "Leo Composite Sun; Tiff Venus Spica",
+      "key_natal_triggers": "Leo Composite Sun; Tiffany Venus Spica",
       "coherence": 8.5,
       "probability": 5.8e-36,
       "ci_lower": 1.5e-38,
@@ -189,7 +189,7 @@
     {
       "rank": 21,
       "name": "Rainbow Warriors",
-      "key_natal_triggers": "Uranus opp ASC; Tiff Venus-Neptune square",
+      "key_natal_triggers": "Uranus opp ASC; Tiffany Venus-Neptune square",
       "coherence": 7.9,
       "probability": 4.2e-33,
       "ci_lower": 1.1e-35,
@@ -297,7 +297,7 @@
         "Sophia grain",
         "White-Buffalo pipe"
       ],
-      "natal_anchor": "Tiff Sun near Spica, Venus Libra, North Node Taurus"
+      "natal_anchor": "Tiffany Sun near Spica, Venus Libra, North Node Taurus"
     },
     {
       "name": "Death-Rebirth Underworld",
@@ -307,7 +307,7 @@
         "Quetzalcóatl cave",
         "Balder in Hel"
       ],
-      "natal_anchor": "Scorpio clusters (Erik Moon/Jupiter, Tiff Sun/Pluto/Saturn)"
+      "natal_anchor": "Scorpio clusters (Erik Moon/Jupiter, Tiffany Sun/Pluto/Saturn)"
     },
     {
       "name": "Heart/Hearth Reconvening",

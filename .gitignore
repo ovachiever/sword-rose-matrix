@@ -1,3 +1,7 @@
+ingest/
+/doc/*.txt
+/doc/*.md
+
 # Python
 __pycache__/
 *.py[cod]
